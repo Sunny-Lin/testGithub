@@ -1,4 +1,3 @@
-# tp-script-management
 
 ## Project setup
 ```
