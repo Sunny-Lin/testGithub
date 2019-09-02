@@ -1,9 +1,10 @@
 <template>
   <div id="app">
-    <tpc-frame-view v-if="$store.state.user.isLogin">
+<!--    v-if="$store.state.user.isLogin"-->
+    <tpc-frame-view >
       <router-view />
     </tpc-frame-view>
-    <tpc-login :login="login" v-else></tpc-login>
+<!--    <tpc-login :login="login" v-else></tpc-login>-->
   </div>
 </template>
 <script>
