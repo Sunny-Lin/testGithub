@@ -1,5 +1,7 @@
 <template>
-    <h1>hahaha,this is feat1 branch</h1>
+    <div>
+        <p>this is feat1 branch</p>
+    </div>
 </template>
 
 <script>
