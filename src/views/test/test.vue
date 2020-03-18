@@ -10,6 +10,7 @@
         data(){
             return{
                 first: '提交第一次',
+                second: '这次提交不pick到develop',
             }
         },
     }
