@@ -6,7 +6,12 @@
 
 <script>
     export default {
-        name: "test"
+        name: "test",
+        data(){
+            return{
+                first: '提交第一次',
+            }
+        },
     }
 </script>
 
